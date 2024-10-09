@@ -1,6 +1,6 @@
-# CS_Courses
+# CS50_Python
 
-I will attend to some CS courses from [edX-CS50](https://www.edx.org/), courses taught by Harvard professionals.
+I will attend to CS course about Python from [edX-CS50](https://www.edx.org/), courses taught by Harvard professional - .
 
 In this repository, I will show code, notelist to what I've learnt through courses daily.
 
